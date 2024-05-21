@@ -1,0 +1,14 @@
+C:\Users\nicoa\OneDrive\Documentos\UTN\Proyectos C#\PP_ESCANER\PP_Escaner_RolonNicolas\bin\Debug\net7.0\Test.exe
+C:\Users\nicoa\OneDrive\Documentos\UTN\Proyectos C#\PP_ESCANER\PP_Escaner_RolonNicolas\bin\Debug\net7.0\Test.deps.json
+C:\Users\nicoa\OneDrive\Documentos\UTN\Proyectos C#\PP_ESCANER\PP_Escaner_RolonNicolas\bin\Debug\net7.0\Test.runtimeconfig.json
+C:\Users\nicoa\OneDrive\Documentos\UTN\Proyectos C#\PP_ESCANER\PP_Escaner_RolonNicolas\bin\Debug\net7.0\Test.dll
+C:\Users\nicoa\OneDrive\Documentos\UTN\Proyectos C#\PP_ESCANER\PP_Escaner_RolonNicolas\bin\Debug\net7.0\Test.pdb
+C:\Users\nicoa\OneDrive\Documentos\UTN\Proyectos C#\PP_ESCANER\PP_Escaner_RolonNicolas\obj\Debug\net7.0\Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicoa\OneDrive\Documentos\UTN\Proyectos C#\PP_ESCANER\PP_Escaner_RolonNicolas\obj\Debug\net7.0\Test.AssemblyInfoInputs.cache
+C:\Users\nicoa\OneDrive\Documentos\UTN\Proyectos C#\PP_ESCANER\PP_Escaner_RolonNicolas\obj\Debug\net7.0\Test.AssemblyInfo.cs
+C:\Users\nicoa\OneDrive\Documentos\UTN\Proyectos C#\PP_ESCANER\PP_Escaner_RolonNicolas\obj\Debug\net7.0\Test.csproj.CoreCompileInputs.cache
+C:\Users\nicoa\OneDrive\Documentos\UTN\Proyectos C#\PP_ESCANER\PP_Escaner_RolonNicolas\obj\Debug\net7.0\Test.dll
+C:\Users\nicoa\OneDrive\Documentos\UTN\Proyectos C#\PP_ESCANER\PP_Escaner_RolonNicolas\obj\Debug\net7.0\refint\Test.dll
+C:\Users\nicoa\OneDrive\Documentos\UTN\Proyectos C#\PP_ESCANER\PP_Escaner_RolonNicolas\obj\Debug\net7.0\Test.pdb
+C:\Users\nicoa\OneDrive\Documentos\UTN\Proyectos C#\PP_ESCANER\PP_Escaner_RolonNicolas\obj\Debug\net7.0\Test.genruntimeconfig.cache
+C:\Users\nicoa\OneDrive\Documentos\UTN\Proyectos C#\PP_ESCANER\PP_Escaner_RolonNicolas\obj\Debug\net7.0\ref\Test.dll
