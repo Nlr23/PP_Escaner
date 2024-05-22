@@ -12,7 +12,7 @@ namespace Entidades
 
 
 
-        public Libro(int anio, string autor, string barcode, string numNormalizado, string titulo, int numPaginas) : base(anio, autor, barcode, numNormalizado, titulo)
+        public Libro(string titulo, string autor, int anio, string numNormalizado, string codeBar, int numPaginas) : base(titulo,autor,anio,numNormalizado,codeBar)
         {
             this.numPaginas = numPaginas;
         }

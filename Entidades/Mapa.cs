@@ -15,7 +15,7 @@ namespace Entidades
         public int Ancho { get => ancho; }
         public int Superficie { get => (Ancho * Alto); }
         
-        public Mapa(string titulo, string autor, int anio, string numNormalizado, string codebar, int ancho, int alto) : base(anio, autor, codebar, numNormalizado, titulo)
+        public Mapa(string titulo, string autor, int anio, string numNormalizado, string codebar, int ancho, int alto) : base(titulo,autor,anio,numNormalizado,codebar)
         {
             this.alto = alto;
             this.ancho = ancho;

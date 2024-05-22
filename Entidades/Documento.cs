@@ -21,7 +21,7 @@ namespace Entidades
         private string titulo;
         private Paso estado;
 
-        public Documento(int anio, string autor, string barcode, string numNormalizado, string titulo)
+        public Documento(string titulo, string autor, int anio, string numNormalizado, string barcode)
         {
             this.anio = anio;
             this.autor = autor;
