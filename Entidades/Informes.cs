@@ -8,11 +8,8 @@ namespace Entidades
 {
     public static class Informes
     {
-        public static void MostrarDistribuidos(Escaner e, out int extension, out int cantidad, out string resumen) 
-        {
-            
-        }
-        private static void MostrarDocumentosPorEstado(Escaner e, Paso estado, out int extension, out int cantidad, out string resumen) { }
+        private static void MostrarDocumentosPorEstado(Escaner e, Paso estado, out int extension, out int cantidad, out string resumen){}
+        public static void MostrarDistribuidos(Escaner e, out int extension, out int cantidad, out string resumen) { }
         public static void MostrarEnEscaner(Escaner e, out int extension, out int cantidad, out string resumen) { }
         public static void MostrarEnRevision(Escaner e, out int extension, out int cantidad, out string resumen) { }
         public static void MostrarTerminados(Escaner e, out int extension, out int cantidad, out string resumen) { }

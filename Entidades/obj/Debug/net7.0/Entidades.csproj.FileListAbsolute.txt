@@ -1,0 +1,4 @@
+C:\Users\nicoa\OneDrive\Documentos\UTN\Proyectos C#\PP_ESCANER\Entidades\obj\Debug\net7.0\Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicoa\OneDrive\Documentos\UTN\Proyectos C#\PP_ESCANER\Entidades\obj\Debug\net7.0\Entidades.AssemblyInfoInputs.cache
+C:\Users\nicoa\OneDrive\Documentos\UTN\Proyectos C#\PP_ESCANER\Entidades\obj\Debug\net7.0\Entidades.AssemblyInfo.cs
+C:\Users\nicoa\OneDrive\Documentos\UTN\Proyectos C#\PP_ESCANER\Entidades\obj\Debug\net7.0\Entidades.csproj.CoreCompileInputs.cache

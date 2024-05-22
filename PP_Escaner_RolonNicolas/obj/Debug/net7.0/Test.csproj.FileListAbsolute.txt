@@ -12,3 +12,4 @@ C:\Users\nicoa\OneDrive\Documentos\UTN\Proyectos C#\PP_ESCANER\PP_Escaner_RolonN
 C:\Users\nicoa\OneDrive\Documentos\UTN\Proyectos C#\PP_ESCANER\PP_Escaner_RolonNicolas\obj\Debug\net7.0\Test.pdb
 C:\Users\nicoa\OneDrive\Documentos\UTN\Proyectos C#\PP_ESCANER\PP_Escaner_RolonNicolas\obj\Debug\net7.0\Test.genruntimeconfig.cache
 C:\Users\nicoa\OneDrive\Documentos\UTN\Proyectos C#\PP_ESCANER\PP_Escaner_RolonNicolas\obj\Debug\net7.0\ref\Test.dll
+C:\Users\nicoa\OneDrive\Documentos\UTN\Proyectos C#\PP_ESCANER\PP_Escaner_RolonNicolas\obj\Debug\net7.0\Test.sourcelink.json

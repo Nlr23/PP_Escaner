@@ -6,25 +6,29 @@ using System.Threading.Tasks;
 
 namespace Entidades
 {
-    public enum Departamento
-    {
-        nulo,
-        mapoteca,
-        procesosTecnicos
-    }
-
-    public enum TipoDoc
-    {
-        libro,
-        mapa
-    }
-
+    
     public class Escaner
     {
         private List<Documento> listaDocumentos;
         private Departamento locacion;
         private string marca;
         private TipoDoc tipo;
+
+        public enum Departamento
+        {
+            nulo,
+            mapoteca,
+            procesosTecnicos
+        }
+
+        public enum TipoDoc
+        {
+            libro,
+            mapa
+        }
+
+
+
 
         public List<Documento> ListaDocumentos { get => listaDocumentos; }
         public Departamento Locacion { get => locacion; }
